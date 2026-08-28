@@ -1,0 +1,6 @@
+{
+  "name": "BoardMentor AI",
+  "description": "AI-Powered Board Exam Learning Platform for school and college students with personalized study plans, AI Teacher, PYQ analysis, mock exams, and school communities",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
